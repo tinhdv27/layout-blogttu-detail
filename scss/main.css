@@ -1,0 +1,383 @@
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 100%;
+}
+
+.width-site {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
+.maincontent .maincontent__right h1 {
+  font-size: 22px;
+  font-weight: 700;
+  padding: 15px 0px;
+}
+
+.maincontent .maincontent__right .admin img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.maincontent .maincontent__right .admin span {
+  font-weight: 700;
+  margin-left: 15px;
+}
+
+.maincontent .maincontent__right .icon {
+  text-align: right;
+}
+
+.maincontent .maincontent__right .icon i {
+  width: 35px;
+  height: 35px;
+  margin-right: 2px;
+  color: white;
+  cursor: pointer;
+  line-height: 35px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.maincontent .maincontent__right .icon .fb {
+  background-color: #3d5d9a;
+}
+
+.maincontent .maincontent__right .icon .tw {
+  background-color: #1ea0eb;
+}
+
+.maincontent .maincontent__right .icon .lk {
+  background-color: #0077b4;
+}
+
+.maincontent .maincontent__right .icon .pt {
+  background-color: #bd081b;
+}
+
+.maincontent .maincontent__right .icon .wa {
+  background-color: #23d563;
+}
+
+.maincontent .maincontent__right .icon .mail {
+  background-color: #ea4235;
+}
+
+.maincontent .maincontent__right .banner img {
+  display: block;
+  max-width: 800px;
+  margin: auto;
+  height: auto !important;
+  width: 100% !important;
+}
+
+.maincontent .maincontent__right .content__detail {
+  margin-top: 10px;
+  color: black;
+  font-size: 18px;
+}
+
+.maincontent .maincontent__right .content__detail p {
+  color: #3498db;
+  font-size: 22px;
+}
+
+.maincontent .maincontent__right .content__detail h1 {
+  font-size: 18px;
+}
+
+.maincontent .maincontent__right .post {
+  overflow: scroll;
+}
+
+.maincontent .maincontent__right .post p {
+  font-size: 12px;
+}
+
+.maincontent .maincontent__right .post p a {
+  margin-right: 3px;
+  padding: 2px 10px;
+  color: white;
+  background-color: #1877f2;
+  border-radius: 3px;
+  font-weight: 700;
+}
+
+.maincontent .maincontent__right .post p a i {
+  margin-right: 3px;
+  color: white;
+}
+
+.maincontent .maincontent__right .post span, .maincontent .maincontent__right .post i {
+  color: #6f6c6c;
+  font-size: 14px;
+}
+
+.maincontent .maincontent__right .job > p {
+  color: #356497;
+}
+
+.maincontent .maincontent__right .job > p a {
+  color: white;
+  background-color: #356497;
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.maincontent .maincontent__right .job .job__content {
+  border: 1px solid #fd6301;
+  border-top: 5px solid #fd6301;
+}
+
+.maincontent .maincontent__right .job .job__content .row > * {
+  margin: 0;
+  padding: 0px 10px;
+}
+
+.maincontent .maincontent__right .job .job__content .row {
+  margin: 0px;
+  padding: 0px;
+}
+
+.maincontent .maincontent__right .job .job__content .top {
+  margin-top: 12px;
+}
+
+.maincontent .maincontent__right .job .job__content .top .content__right p {
+  margin-top: 40px;
+}
+
+.maincontent .maincontent__right .job .job__content .bot {
+  margin: 15px 0px;
+}
+
+.maincontent .maincontent__right .job .job__content .bot .card {
+  border: none;
+  border-radius: unset !important;
+}
+
+.maincontent .maincontent__right .job .job__content .bot .card img {
+  width: 100%;
+  height: 190px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-top-left-radius: unset !important;
+  border-top-right-radius: unset !important;
+}
+
+.maincontent .maincontent__right .job .job__content .bot .card .card-body {
+  padding: 0;
+  margin-top: 10px;
+}
+
+.maincontent .maincontent__right .job .job__content .bot .card .card-body a {
+  color: black;
+  font-weight: 600;
+}
+
+.maincontent .maincontent__right .job .job__content .bot .card .card-body a:hover {
+  color: #fd6301;
+}
+
+.maincontent .maincontent__right .news > h1 .bordertop {
+  border-top: 3px solid #fd6301;
+}
+
+.maincontent .maincontent__right .news .row .card {
+  border: none;
+  border-radius: unset !important;
+}
+
+.maincontent .maincontent__right .news .row .card img {
+  width: 100%;
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 10px;
+}
+
+.maincontent .maincontent__right .news .row .card .card-body {
+  padding: 10px 0px;
+}
+
+.maincontent .maincontent__right .news .row .card .card-body .card-text a {
+  color: black;
+  font-weight: 700;
+  font-size: 18px;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  text-decoration: none;
+}
+
+.maincontent .maincontent__right .news .row .card .card-body .card-text a:hover {
+  color: #fd6301;
+}
+
+.maincontent .maincontent__left .icon a {
+  display: block;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+.maincontent .maincontent__left .icon a i {
+  width: 15px;
+  height: 15px;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  background-color: white;
+}
+
+.maincontent .maincontent__left .icon a .lk {
+  color: #3c5997;
+}
+
+.maincontent .maincontent__left .icon a .fb {
+  color: #bd081b;
+}
+
+.maincontent .maincontent__left .icon a .yt {
+  color: #0077b4;
+}
+
+.maincontent .maincontent__left .icon a .ins {
+  color: #356497;
+}
+
+.maincontent .maincontent__left .icon .link {
+  background-color: #3c5997;
+}
+
+.maincontent .maincontent__left .icon .face {
+  background-color: #bd081b;
+}
+
+.maincontent .maincontent__left .icon .you {
+  background-color: #0077b4;
+}
+
+.maincontent .maincontent__left .icon .insta {
+  background-color: #356497;
+}
+
+.maincontent .maincontent__left .news {
+  margin-top: 20px;
+}
+
+.maincontent .maincontent__left .news h1 {
+  font-size: 18px;
+}
+
+.maincontent .maincontent__left .news .news__content {
+  border: 1px solid #fd6301;
+  border-top: 3px solid #fd6301;
+}
+
+.maincontent .maincontent__left .news .news__content .item {
+  padding: 5px 3px;
+}
+
+.maincontent .maincontent__left .news .news__content .item .image img {
+  width: 100px;
+  height: 60px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.maincontent .maincontent__left .news .news__content .item .thread {
+  margin-left: 10px;
+}
+
+.maincontent .maincontent__left .news .news__content .item .thread h3 {
+  font-size: 14px;
+}
+
+.maincontent .maincontent__left .news .news__content .item .thread h3 a {
+  color: #575a61;
+  text-decoration: none;
+}
+
+.maincontent .maincontent__left .banner {
+  top: 20px;
+  width: 283px;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.maincontent .maincontent__left .banner .fixed {
+  max-width: 283px;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .maincontent .maincontent__right {
+    width: 100%;
+  }
+}
+
+.mores h1 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.mores h1 .bordertop {
+  border-top: 3px solid #fd6301;
+}
+
+.mores .row .card {
+  border: unset;
+  border-radius: 0px;
+  padding-bottom: 10px;
+}
+
+.mores .row .card img {
+  border-radius: 10px;
+  width: 100%;
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.mores .row .card .card-body {
+  padding: 10px 0px !important;
+}
+
+.mores .row .card .card-body p a {
+  color: black;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.mores .row .card .card-body p a:hover {
+  color: #fd6301;
+}
+
+.mores .button {
+  text-align: center;
+  cursor: pointer;
+}
+
+.mores .button button {
+  border: none;
+  padding: 5px 50px;
+  background-color: #1a4485;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.mores .button button:hover {
+  background-color: #fd6301;
+}
+/*# sourceMappingURL=main.css.map */
